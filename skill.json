@@ -1,0 +1,20 @@
+{
+  "name": "genpark-product-quantization-compression-engine-skill",
+  "version": "1.0.0",
+  "description": "Product Quantization (PQ) vector compression engine partitioning embeddings into discrete codebook indices",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "product-quantization",
+    "vector-compression",
+    "codebook-quantizer",
+    "embedding-compression",
+    "ann",
+    "python-standard-library",
+    "agent-skills",
+    "vector-db",
+    "quantization",
+    "developer-tools"
+  ]
+}
